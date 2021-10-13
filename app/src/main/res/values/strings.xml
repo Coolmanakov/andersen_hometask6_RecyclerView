@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">andersen_hometask6_RecyclerView_ContactApp</string>
+    <string name="delete_contact_title">Уверены, что хотите удалить этот контакт?</string>
+</resources>
